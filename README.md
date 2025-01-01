@@ -63,7 +63,7 @@ Position sizing is another crucial element of the risk management framework. COV
 Overall, the multifaceted risk management framework reflected by COVIX PositionOptima integrates dynamic adjustments, systematic rebalancing, and disciplined position sizing to effectively navigate market volatility, enhancing the potential for achieving optimal returns in varying market environments.
 
 
-### 5 Assumptions
+## 5 Assumptions
 Several key assumptions will be maintained throughout our backtesting strategy, which may limit how applicable these strategies might be in real-world scenarios. We will outline these assumptions below:
 
 Firstly, we assume there are no transaction costs. Implementing the dynamic weight allocation as described earlier would require daily portfolio rebalancing, which would realistically result in sizable transaction fees. To better assess the strategy’s performance, we have maintained this assumption in our backtesting process.

@@ -67,7 +67,7 @@ pytz==2024.2
     # via
     #   pandas
     #   yfinance
-requests==2.32.3
+requests==2.32.4
     # via yfinance
 seaborn==0.13.2
     # via -r .\requirements.in

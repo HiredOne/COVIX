@@ -53,7 +53,7 @@ pandas==2.2.3
     #   yfinance
 peewee==3.17.8
     # via yfinance
-pillow==11.0.0
+pillow==12.1.1
     # via matplotlib
 platformdirs==4.3.6
     # via yfinance
